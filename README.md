@@ -4,10 +4,10 @@ v 1.0
 
 Four-channel samples lab made with Max/MSP
 
-OPEN: load a new sample into the channel <br />
-PR1, PR2, PR2: set the parameters to edit the sample <br />
-SEQ: open audio’s output on the eight steps sequencer <br />
-TEMPO: start the sequencer and set the tempo <br />
+_OPEN:_ load a new sample into the channel <br />
+_PR1, PR2, PR2:_ set parameters to edit the sample <br />
+_SEQ:_ open audio’s output on eight steps sequencer <br />
+_TEMPO:_ start the sequencer and set the tempo <br />
 
 [Screenshoot](https://maxforlive.com/images/screenshots/?ss=LOOP_LAB_maxforlive.jpg&id=5901)
 
