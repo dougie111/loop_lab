@@ -1,4 +1,6 @@
-# loop_lab
+# Loop Lab
+
+v 1.0
 
 Four-channel samples lab made with Max/MSP
 
