@@ -1,6 +1,6 @@
 # Loop Lab
 
-v 1.0
+v 1.0 - Max for Live plugin
 
 Four-channel samples lab made with Max/MSP
 
