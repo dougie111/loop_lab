@@ -2,8 +2,6 @@
 
 v 1.0
 
-_Max for Live plugin_
-
 Four-channel samples lab made with Max/MSP
 
 OPEN: load a new sample into the channel
